@@ -15,7 +15,8 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
-app.UseHttpsRedirection();
+// comming it out for now, since we do not want HTTPs for our simple app.
+// app.UseHttpsRedirection();
 
 
 app.UseAntiforgery();
