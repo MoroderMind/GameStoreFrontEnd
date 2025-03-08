@@ -9,45 +9,45 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GameStoreFrontend
 build_property.RootNamespace = GameStoreFrontend
-build_property.ProjectDir = C:\Users\EMil\Desktop\GameStore-FrontEnd\GameStoreFrontend\
+build_property.ProjectDir = c:\Users\EMil\Desktop\GameStore-FrontEnd\GameStoreFrontend\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\EMil\Desktop\GameStore-FrontEnd\GameStoreFrontend
+build_property.MSBuildProjectDirectory = c:\Users\EMil\Desktop\GameStore-FrontEnd\GameStoreFrontend
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/EMil/Desktop/GameStore-FrontEnd/GameStoreFrontend/Components/App.razor]
+[c:/Users/EMil/Desktop/GameStore-FrontEnd/GameStoreFrontend/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/EMil/Desktop/GameStore-FrontEnd/GameStoreFrontend/Components/Layout/NavMeny.razor]
+[c:/Users/EMil/Desktop/GameStore-FrontEnd/GameStoreFrontend/Components/Layout/NavMeny.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVueS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/EMil/Desktop/GameStore-FrontEnd/GameStoreFrontend/Components/Pages/EditGame.razor]
+[c:/Users/EMil/Desktop/GameStore-FrontEnd/GameStoreFrontend/Components/Pages/EditGame.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFZGl0R2FtZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/EMil/Desktop/GameStore-FrontEnd/GameStoreFrontend/Components/Pages/Error.razor]
+[c:/Users/EMil/Desktop/GameStore-FrontEnd/GameStoreFrontend/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/EMil/Desktop/GameStore-FrontEnd/GameStoreFrontend/Components/Pages/Home.razor]
+[c:/Users/EMil/Desktop/GameStore-FrontEnd/GameStoreFrontend/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/EMil/Desktop/GameStore-FrontEnd/GameStoreFrontend/Components/Routes.razor]
+[c:/Users/EMil/Desktop/GameStore-FrontEnd/GameStoreFrontend/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/EMil/Desktop/GameStore-FrontEnd/GameStoreFrontend/Components/_Imports.razor]
+[c:/Users/EMil/Desktop/GameStore-FrontEnd/GameStoreFrontend/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/EMil/Desktop/GameStore-FrontEnd/GameStoreFrontend/Components/Layout/MainLayout.razor]
+[c:/Users/EMil/Desktop/GameStore-FrontEnd/GameStoreFrontend/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-n94mx2wytk
