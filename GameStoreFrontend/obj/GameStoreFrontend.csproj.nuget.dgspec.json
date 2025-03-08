@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\GameStoreFrontend.csproj": {}
+    "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\GameStoreFrontend.csproj": {}
   },
   "projects": {
-    "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\GameStoreFrontend.csproj": {
+    "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\GameStoreFrontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\GameStoreFrontend.csproj",
+        "projectUniqueName": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\GameStoreFrontend.csproj",
         "projectName": "GameStoreFrontend",
-        "projectPath": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\GameStoreFrontend.csproj",
+        "projectPath": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\GameStoreFrontend.csproj",
         "packagesPath": "C:\\Users\\EMil\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\",
+        "outputPath": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

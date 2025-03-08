@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "evoxVjzNEVRDNDVFDgBPyxec67rcgie4hqfR/njiLkA=",
+  "Hash": "jmcPen4LSexNEfio27vlxLTXmRElkVLTtpYsjFuit0k=",
   "Source": "GameStoreFrontend",
   "BasePath": "_content/GameStoreFrontend",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "GameStoreFrontend\\wwwroot",
       "Source": "GameStoreFrontend",
-      "ContentRoot": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\wwwroot\\",
       "BasePath": "_content/GameStoreFrontend",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\compressed\\cs3freqkrp-4kywy7iv6g.gz",
+      "Identity": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\compressed\\cs3freqkrp-4kywy7iv6g.gz",
       "SourceId": "GameStoreFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/GameStoreFrontend",
       "RelativePath": "app#[.{fingerprint=4kywy7iv6g}]?.css.gz",
       "AssetKind": "All",
@@ -28,20 +28,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\wwwroot\\app.css",
+      "RelatedAsset": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\wwwroot\\app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "zcos8w4b7w",
       "Integrity": "rQ06ZVppJMbFntqcFRQT6szW4P5LSAxdi1yON8P8sdE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\wwwroot\\app.css"
+      "OriginalItemSpec": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\wwwroot\\app.css"
     },
     {
-      "Identity": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\compressed\\penp1pafvw-mzwf7sbw7g.gz",
+      "Identity": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\compressed\\penp1pafvw-mzwf7sbw7g.gz",
       "SourceId": "GameStoreFrontend",
       "SourceType": "Computed",
-      "ContentRoot": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/GameStoreFrontend",
       "RelativePath": "GameStoreFrontend#[.{fingerprint=mzwf7sbw7g}]?.styles.css.gz",
       "AssetKind": "All",
@@ -49,20 +49,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\GameStoreFrontend.styles.css",
+      "RelatedAsset": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\GameStoreFrontend.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "c74grs2cr1",
       "Integrity": "uHsuYbEmixmTDsUqjZjBlqm5eEdK1LqlcJQVM/xiaos=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\GameStoreFrontend.styles.css"
+      "OriginalItemSpec": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\GameStoreFrontend.styles.css"
     },
     {
-      "Identity": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\compressed\\ph3ucj4680-mzwf7sbw7g.gz",
+      "Identity": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\compressed\\ph3ucj4680-mzwf7sbw7g.gz",
       "SourceId": "GameStoreFrontend",
       "SourceType": "Computed",
-      "ContentRoot": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/GameStoreFrontend",
       "RelativePath": "GameStoreFrontend#[.{fingerprint=mzwf7sbw7g}]!.bundle.scp.css.gz",
       "AssetKind": "All",
@@ -70,20 +70,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GameStoreFrontend.bundle.scp.css",
+      "RelatedAsset": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GameStoreFrontend.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "c74grs2cr1",
       "Integrity": "uHsuYbEmixmTDsUqjZjBlqm5eEdK1LqlcJQVM/xiaos=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GameStoreFrontend.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GameStoreFrontend.bundle.scp.css"
     },
     {
-      "Identity": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\GameStoreFrontend.styles.css",
+      "Identity": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\GameStoreFrontend.styles.css",
       "SourceId": "GameStoreFrontend",
       "SourceType": "Computed",
-      "ContentRoot": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
       "BasePath": "_content/GameStoreFrontend",
       "RelativePath": "GameStoreFrontend#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -98,13 +98,13 @@
       "Integrity": "wlvd3zUl23FWW2TrmqBy7O5sFlACSjxmqeqSIqzMYrs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\GameStoreFrontend.styles.css"
+      "OriginalItemSpec": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\GameStoreFrontend.styles.css"
     },
     {
-      "Identity": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GameStoreFrontend.bundle.scp.css",
+      "Identity": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GameStoreFrontend.bundle.scp.css",
       "SourceId": "GameStoreFrontend",
       "SourceType": "Computed",
-      "ContentRoot": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/GameStoreFrontend",
       "RelativePath": "GameStoreFrontend#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -119,13 +119,13 @@
       "Integrity": "wlvd3zUl23FWW2TrmqBy7O5sFlACSjxmqeqSIqzMYrs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GameStoreFrontend.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GameStoreFrontend.bundle.scp.css"
     },
     {
-      "Identity": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\wwwroot\\app.css",
       "SourceId": "GameStoreFrontend",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\wwwroot\\",
       "BasePath": "_content/GameStoreFrontend",
       "RelativePath": "app#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -146,7 +146,7 @@
   "Endpoints": [
     {
       "Route": "app.4kywy7iv6g.css",
-      "AssetFile": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\compressed\\cs3freqkrp-4kywy7iv6g.gz",
+      "AssetFile": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\compressed\\cs3freqkrp-4kywy7iv6g.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -209,7 +209,7 @@
     },
     {
       "Route": "app.4kywy7iv6g.css",
-      "AssetFile": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\wwwroot\\app.css",
+      "AssetFile": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -254,7 +254,7 @@
     },
     {
       "Route": "app.4kywy7iv6g.css.gz",
-      "AssetFile": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\compressed\\cs3freqkrp-4kywy7iv6g.gz",
+      "AssetFile": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\compressed\\cs3freqkrp-4kywy7iv6g.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -307,7 +307,7 @@
     },
     {
       "Route": "app.css",
-      "AssetFile": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\compressed\\cs3freqkrp-4kywy7iv6g.gz",
+      "AssetFile": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\compressed\\cs3freqkrp-4kywy7iv6g.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -362,7 +362,7 @@
     },
     {
       "Route": "app.css",
-      "AssetFile": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\wwwroot\\app.css",
+      "AssetFile": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -399,7 +399,7 @@
     },
     {
       "Route": "app.css.gz",
-      "AssetFile": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\compressed\\cs3freqkrp-4kywy7iv6g.gz",
+      "AssetFile": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\compressed\\cs3freqkrp-4kywy7iv6g.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -444,7 +444,7 @@
     },
     {
       "Route": "GameStoreFrontend.bundle.scp.css",
-      "AssetFile": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\compressed\\ph3ucj4680-mzwf7sbw7g.gz",
+      "AssetFile": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\compressed\\ph3ucj4680-mzwf7sbw7g.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -499,7 +499,7 @@
     },
     {
       "Route": "GameStoreFrontend.bundle.scp.css",
-      "AssetFile": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GameStoreFrontend.bundle.scp.css",
+      "AssetFile": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GameStoreFrontend.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -536,7 +536,7 @@
     },
     {
       "Route": "GameStoreFrontend.bundle.scp.css.gz",
-      "AssetFile": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\compressed\\ph3ucj4680-mzwf7sbw7g.gz",
+      "AssetFile": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\compressed\\ph3ucj4680-mzwf7sbw7g.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -581,7 +581,7 @@
     },
     {
       "Route": "GameStoreFrontend.mzwf7sbw7g.bundle.scp.css",
-      "AssetFile": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\compressed\\ph3ucj4680-mzwf7sbw7g.gz",
+      "AssetFile": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\compressed\\ph3ucj4680-mzwf7sbw7g.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -644,7 +644,7 @@
     },
     {
       "Route": "GameStoreFrontend.mzwf7sbw7g.bundle.scp.css",
-      "AssetFile": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GameStoreFrontend.bundle.scp.css",
+      "AssetFile": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GameStoreFrontend.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -689,7 +689,7 @@
     },
     {
       "Route": "GameStoreFrontend.mzwf7sbw7g.bundle.scp.css.gz",
-      "AssetFile": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\compressed\\ph3ucj4680-mzwf7sbw7g.gz",
+      "AssetFile": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\compressed\\ph3ucj4680-mzwf7sbw7g.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -742,7 +742,7 @@
     },
     {
       "Route": "GameStoreFrontend.mzwf7sbw7g.styles.css",
-      "AssetFile": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\compressed\\penp1pafvw-mzwf7sbw7g.gz",
+      "AssetFile": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\compressed\\penp1pafvw-mzwf7sbw7g.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -805,7 +805,7 @@
     },
     {
       "Route": "GameStoreFrontend.mzwf7sbw7g.styles.css",
-      "AssetFile": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\GameStoreFrontend.styles.css",
+      "AssetFile": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\GameStoreFrontend.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -850,7 +850,7 @@
     },
     {
       "Route": "GameStoreFrontend.mzwf7sbw7g.styles.css.gz",
-      "AssetFile": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\compressed\\penp1pafvw-mzwf7sbw7g.gz",
+      "AssetFile": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\compressed\\penp1pafvw-mzwf7sbw7g.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -903,7 +903,7 @@
     },
     {
       "Route": "GameStoreFrontend.styles.css",
-      "AssetFile": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\compressed\\penp1pafvw-mzwf7sbw7g.gz",
+      "AssetFile": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\compressed\\penp1pafvw-mzwf7sbw7g.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -958,7 +958,7 @@
     },
     {
       "Route": "GameStoreFrontend.styles.css",
-      "AssetFile": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\GameStoreFrontend.styles.css",
+      "AssetFile": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\GameStoreFrontend.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -995,7 +995,7 @@
     },
     {
       "Route": "GameStoreFrontend.styles.css.gz",
-      "AssetFile": "c:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\compressed\\penp1pafvw-mzwf7sbw7g.gz",
+      "AssetFile": "C:\\Users\\EMil\\Desktop\\GameStore-FrontEnd\\GameStoreFrontend\\obj\\Debug\\net9.0\\compressed\\penp1pafvw-mzwf7sbw7g.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
