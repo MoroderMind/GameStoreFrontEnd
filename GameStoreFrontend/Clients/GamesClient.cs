@@ -81,6 +81,12 @@ public class GamesClient
         existingGame.Price = updatedGame.Price;
         existingGame.ReleaseDate = updatedGame.ReleaseDate;
     }
+    
+    public void DeleteGame(int id)
+    {
+        GameSummary game = GetGameSummaryById(id);
+        games.Remove(game);
+    }
 
     private GameSummary GetGameSummaryById(int id)
     {
