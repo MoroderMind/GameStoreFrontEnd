@@ -4,7 +4,8 @@ using GameStoreFrontend.Components;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddRazorComponents();
+builder.Services.AddRazorComponents()
+                .AddInteractiveServerComponents();
 
 // Adding our permanant life cycle DI
 builder.Services.AddSingleton<GamesClient>();
@@ -28,6 +29,7 @@ if (!app.Environment.IsDevelopment())
 app.UseAntiforgery();
 
 app.MapStaticAssets();
-app.MapRazorComponents<App>();
+app.MapRazorComponents<App>()
+    .AddInteractiveServerRenderMode();
 
 app.Run();
